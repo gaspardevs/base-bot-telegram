@@ -1,7 +1,7 @@
 # 🤖 Base Bot Telegram
 
 <p align="center">
-  <img src="https://i.imgur.com/SEU_BANNER.png" alt="Banner" width="100%">
+  <img src="fotobase.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
