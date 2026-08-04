@@ -1,0 +1,23 @@
+{
+  "name": "telegram-bot-base",
+  "version": "1.0.0",
+  "description": "Base minimalista e profissional para criar bots Telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "base",
+    "template",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
