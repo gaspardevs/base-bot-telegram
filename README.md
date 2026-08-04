@@ -62,6 +62,18 @@ Ideal para quem deseja iniciar um novo projeto sem precisar montar toda a estrut
 
 # 📥 Instalação
 
+Entre na pasta que vai clonar seu bot:
+
+```bash
+cd /sdcard
+```
+
+ou
+
+```bash
+cd /sdcard/downloads
+```
+
 Clone o repositório:
 
 ```bash
